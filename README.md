@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dylan
 - 👀 I’m interested in Software Development in aerospace and defense
 - 🖥 I’m currently learning Python/Java
-- 🎓 I'm currently in pursuit of my B.A.S. in computer science 
+- 🎓 I'm currently in pursuit of my A.A.S in Cybersecurity and Secure Software Development
 - 📫 How to reach me • dblevins2@student.cccs.edu
